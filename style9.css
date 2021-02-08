@@ -1,0 +1,30 @@
+.container_12 {
+	background: red;
+}
+nav {
+	background: orange;
+}
+nav li {
+	display: inline;
+	margin-left: 0;
+	margin-right: 30px;
+}
+aside {
+	background: green;
+}
+
+.primary {
+	background: #e3e3e3;
+}
+header {
+	background: yellow;
+}
+.main {
+	margin: 30px 0;
+}
+section {
+	box-sizing: border-box;
+	padding: 15px;
+}
+
+
